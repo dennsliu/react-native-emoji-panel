@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "react-native-emoji-panel@0.1.7",
+      "/Users/denny/my_ios_dev/app"
+    ]
+  ],
+  "_from": "react-native-emoji-panel@0.1.7",
+  "_id": "react-native-emoji-panel@0.1.7",
+  "_inBundle": false,
+  "_integrity": "sha1-bo+bgRHwZJGDnIozAfEwAIY8DHY=",
+  "_location": "/react-native-emoji-panel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-emoji-panel@0.1.7",
+    "name": "react-native-emoji-panel",
+    "escapedName": "react-native-emoji-panel",
+    "rawSpec": "0.1.7",
+    "saveSpec": null,
+    "fetchSpec": "0.1.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-emoji-panel/download/react-native-emoji-panel-0.1.7.tgz",
+  "_spec": "0.1.7",
+  "_where": "/Users/denny/my_ios_dev/app",
+  "author": {
+    "name": "AnHongpeng",
+    "email": "roc.anhongpeng@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/AnHongpeng/react-native-emoji-panel/issues"
+  },
+  "description": "Customized emoji panel.",
+  "homepage": "https://github.com/AnHongpeng/react-native-emoji-panel#readme",
+  "keywords": [
+    "react-native-emoji",
+    "react-native",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-emoji-panel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnHongpeng/react-native-emoji-panel.git"
+  },
+  "version": "0.1.7"
+}
