@@ -121,7 +121,7 @@ EmojiPanel.propTypes = {
 const styles = StyleSheet.create({
   panel: {
     width: WINDOW_WIDTH,
-    height: 160,
+    height: 150,
   },
   page: {
     flexDirection: 'row',
