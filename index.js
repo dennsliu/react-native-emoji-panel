@@ -126,10 +126,10 @@ const styles = StyleSheet.create({
   page: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    paddingTop: 20,
+    paddingTop: 5,
     paddingHorizontal: 26,
     width: WINDOW_WIDTH,
-    height: 160,
+    height: 150,
   },
   btn: {
     justifyContent: 'center',
