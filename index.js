@@ -121,7 +121,7 @@ EmojiPanel.propTypes = {
 const styles = StyleSheet.create({
   panel: {
     width: WINDOW_WIDTH,
-    height: 150,
+    height: 125,
   },
   page: {
     flexDirection: 'row',
@@ -129,12 +129,12 @@ const styles = StyleSheet.create({
     paddingTop: 5,
     paddingHorizontal: 26,
     width: WINDOW_WIDTH,
-    height: 150,
+    height: 125,
   },
   btn: {
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 10,
+    marginBottom: 6,
     width: Math.floor((WINDOW_WIDTH - 52) / 9) - 1,
     height: 30,
   },
