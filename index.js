@@ -93,7 +93,7 @@ class EmojiPanel extends Component {
 
   formatEmojiArr(emojiMap) {
     const { onDelete } = this.props;
-    const size = onDelete ? 26 : 27;
+    const size = onDelete ? 23 : 24;
     let srcArr = [],
         disArr = [];
 
@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     marginBottom: 6,
-    width: Math.floor((WINDOW_WIDTH - 52) / 9) - 1,
+    width: Math.floor((WINDOW_WIDTH - 52) / 8) - 1,
     height: 30,
   },
   emoji: {
