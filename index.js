@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import {
   Dimensions,
   Image,
@@ -9,7 +9,7 @@ import {
   View
 } from 'react-native';
 import Emoji from './lib/emoji';
-
+import PropTypes from 'prop-types';
 const WINDOW_WIDTH = Dimensions.get('window').width;
 
 class EmojiPanel extends Component {
